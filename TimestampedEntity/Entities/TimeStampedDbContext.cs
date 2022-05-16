@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 
-namespace TimestampedEntity.Entites;
+namespace TimestampedEntity.Entities;
 
 public class TimeStampedDbContext : DbContext
 {

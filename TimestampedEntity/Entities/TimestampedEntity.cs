@@ -1,6 +1,6 @@
 using System;
 
-namespace TimestampedEntity.Entites
+namespace TimestampedEntity.Entities
 {
     public abstract class TimestampedEntity
     {
