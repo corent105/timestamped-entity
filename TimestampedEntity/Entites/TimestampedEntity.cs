@@ -1,6 +1,6 @@
 using System;
 
-namespace ImproveYourDotnetStyle.Entites
+namespace TimestampedEntity.Entites
 {
     public abstract class TimestampedEntity
     {
