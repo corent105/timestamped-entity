@@ -5,6 +5,7 @@
         <Authors>Corentin JOUFFE</Authors>
         <Description>Package to simplify implementation of timestamped entity with EF</Description>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.3</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
